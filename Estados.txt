@@ -1,0 +1,14 @@
+Annie,44,10,11,1
+Zero,39,16,18,2
+Hisoka,53,11,14,2
+Megaman,60,9,10,4
+Mikasa,50,13,16,3
+Soldado orco,30,8,9,1
+Soldado orco,30,7,8,1
+Soldado orco,30,9,12,1
+Sonic,50,20,23,2
+Sonic,45,22,24,2
+Cruzado,100,10,15,5
+Cruzado,70,17,20,8
+Cruzado,70,20,27,4
+Angevo,170,13,17,7

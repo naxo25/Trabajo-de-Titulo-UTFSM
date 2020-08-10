@@ -1,0 +1,16 @@
+Estados
+ID,nombre,vida,vida_max,daño_min,daño_max,deff,nivel,exp_actual,exp_final
+
+Estados_enemigos
+ID,nombre,vida,vida_max,daño_min,daño_max,deff,*nvl_item*
+
+
+
+
+1 for 1 to nivel_actual
+	2 * exp_final + exp_final
+
+2 open tabla
+nvl = nivldsadsa
+exp = exp(nivldsadsa)
+if exp_act(pj) >= exp_final(pj)

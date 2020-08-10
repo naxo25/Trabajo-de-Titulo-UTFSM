@@ -1,0 +1,11 @@
+0,Sin equipar,0
+1,Daga,2
+2,Mazo,3
+3,Espada,4
+4,Hacha,6
+5,Lanza,5
+6,Escudo de madera,1
+7,Escudo de bronce,2
+8,Escudo de hierro,3
+9,Escudo de titanio,4
+10,Poción,25
