@@ -10,7 +10,7 @@ Proyecto de red social multiplataforma
 ## Screenshot
 ![](./python.png)
 
-[VideoDemo](https://www.facebook.com/naxo.rojas.9/videos/1485667201447882)
+[VideoDemo](https://drive.google.com/file/d/1uzLFazwiEtSXMGWIAdsnqirCwrY0KnDG/view)
 
 ## Versionado 📌
 
